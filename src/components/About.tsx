@@ -19,7 +19,7 @@ const About = () => {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="space-y-8">
             <p className="text-xl text-gray-700 leading-relaxed font-light">
-              Hello! I'm Meera Arthi Sri. S, a passionate UI/UX Designer based in Coimbatore.
+              Hello! I'm Meera Arthi Sri. S, a passionate UI/UX Designer.
               I specialize in creating intuitive and visually appealing digital experiences that
               delight users and solve real-world problems.
             </p>
@@ -51,13 +51,13 @@ const About = () => {
                 <div className="border-l-2 border-teal-200 pl-4">
                   <p className="font-bold text-lg text-gray-800">Master of Science (IT)</p>
                   <p className="text-teal-600 font-medium">Hindusthan College of Arts & Science</p>
-                  <p className="text-sm text-gray-500 mt-1">Chennai</p>
+                  <p className="text-sm text-gray-500 mt-1">Coimbatore</p>
                 </div>
 
                 <div className="border-l-2 border-cyan-200 pl-4">
                   <p className="font-bold text-lg text-gray-800">Bachelor of Science (CS)</p>
                   <p className="text-cyan-600 font-medium">SDNB vaishnav College for Womens</p>
-                  <p className="text-sm text-gray-500 mt-1">Coimbatore</p>
+                  <p className="text-sm text-gray-500 mt-1">Chennai</p>
                 </div>
               </div>
             </div>
